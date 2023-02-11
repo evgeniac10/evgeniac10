@@ -11,7 +11,7 @@
  <summary>🤷‍♂️ <b> BaekJoon Stats: </b></summary>
   <br>
 <p align="left">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ieeh1016"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagustjd2684"/>
 </p>
 </자세히>                       
                              
