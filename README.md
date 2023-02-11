@@ -11,8 +11,9 @@
  <summary>🤷‍♂️ <b> BaekJoon Stats: </b></summary>
   <br>
 <p align="left">
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlagustjd2684)](https://solved.ac/rlagustjd2684)
-</p>                            
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ieeh1016"/>
+</p>
+</자세히>                       
                              
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniac10&show_icons=true&theme=dark)                            
                              
