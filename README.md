@@ -11,7 +11,7 @@
  <summary>🤷‍♂️ <b> BaekJoon Stats: </b></summary>
   <br>
 <p align="left">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagustjd2684"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagustjd2684@gmail.com"/>
 </p>                            
                              
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniac10&show_icons=true&theme=radical)                            
