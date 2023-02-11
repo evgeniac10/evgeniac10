@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=250&section=header&text=Hyun%20Seong&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=225&section=header&text=Hyun%20Seong&fontSize=50)
 #### Myname is Hyun Seong Kim.
 
 
