@@ -1,8 +1,10 @@
-𝓮𝓿𝓰𝓮𝓷𝓲𝓪𝓬10
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hyun%20Seong&fontSize=30)
+#### Myname is Hyun Seong Kim.
+
 
 ✨ Tech Stacks
 
-* Used launguage: <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"
+* Used launguage: <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
 
                              
                              
@@ -28,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
