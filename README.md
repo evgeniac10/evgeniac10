@@ -4,6 +4,7 @@
 ✨ Tech Stacks
 
 * Used launguage: <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
+<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/></span>
 
                              
                              
