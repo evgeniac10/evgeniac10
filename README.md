@@ -3,7 +3,7 @@
 
 ✨ Tech Stacks
 
-* Used launguage: <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span> <br>
+* Used launguage: <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/></span><br>
 * Used framework: <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <span><img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"> <span><img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <span><img src="https://img.shields.io/badge/Spring Security-6DB33F ?style=flat-square&logo=SpringSecurity&logoColor=white"/>
 * Used tool:<span><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"> <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
 * Used DataBase:<span><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"> <br>
